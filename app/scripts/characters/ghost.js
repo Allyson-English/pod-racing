@@ -173,13 +173,13 @@ class Ghost {
 
     if (mode === 'scared') {
       this.animationTarget.style.backgroundImage =
-        'url(app/style/graphics/' + `spriteSheets/characters/ghosts/blinky/blinky_right.svg)`;
+        'url(app/style/graphics/' + `spriteSheets/characters/ghosts/blinky/blinky_${direction}.svg)`;
     } else if (mode === 'eyes') {
       this.animationTarget.style.backgroundImage =
-        'url(app/style/graphics/' + `spriteSheets/characters/ghosts/blinky/blinky_right.svg)`;
+        'url(app/style/graphics/' + `spriteSheets/characters/ghosts/blinky/blinky_${direction}.svg)`;
     } else {
       this.animationTarget.style.backgroundImage =
-        'url(app/style/graphics/' + `spriteSheets/characters/ghosts/blinky/blinky_right.svg)`;
+        'url(app/style/graphics/' + `spriteSheets/characters/ghosts/blinky/blinky_${direction}.svg)`;
     }
   }
 

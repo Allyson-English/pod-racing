@@ -1,5 +1,5 @@
 <svg fill="none" height="16" viewBox="1 5 64 16" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g id="car" transform="scale(.54, .55) rotate(80, 100, 100)">
+  <g id="car" transform="scale(.54, .55)">
   <filter id="a" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="7.10879" width="6.9588" x="5.14722" y="23.0412">
     <feFlood flood-opacity="0" result="BackgroundImageFix"/>
     <feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape"/>

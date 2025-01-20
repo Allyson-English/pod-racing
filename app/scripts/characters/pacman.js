@@ -96,7 +96,7 @@ class Pacman {
    */
   setSpriteSheet(direction) {
     this.animationTarget.style.backgroundImage =
-      'url(app/style/graphics/' + `spriteSheets/characters/pacman/pacman_left.svg)`;
+      'url(app/style/graphics/' + `spriteSheets/characters/pacman/pacman_${direction}.svg)`;
   }
 
   prepDeathAnimation() {

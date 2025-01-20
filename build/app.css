@@ -3,7 +3,6 @@
   position: absolute;
   z-index: 2;
   /* width: 5%; */
-  background-color: aqua;
   padding-bottom: 5%;
 }
 
@@ -218,7 +217,7 @@ body {
 .loading-pacman {
   animation: loading-animation 0.3s steps(4) infinite;
   background-color: #000;
-  background-image: url('../app/style/graphics/spriteSheets/characters/pacman/pacman_left.svg');
+  background-image: url('../app/style/graphics/spriteSheets/characters/pacman/pacman_right.svg');
   background-size: 192px;
   border-radius: 10px;
   height: 48px;

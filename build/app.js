@@ -174,13 +174,13 @@ class Ghost {
     // to do (aeae) here todo
     if (mode === 'scared') {
       this.animationTarget.style.backgroundImage =
-        'url(app/style/graphics/' + `spriteSheets/characters/ghosts/blinky/blinky_right.svg)`;
+        'url(app/style/graphics/' + `spriteSheets/characters/ghosts/blinky/blinky_${direction}.svg)`;
     } else if (mode === 'eyes') {
       this.animationTarget.style.backgroundImage =
-        'url(app/style/graphics/' + `spriteSheets/characters/ghosts/blinky/blinky_right.svg)`;
+        'url(app/style/graphics/' + `spriteSheets/characters/ghosts/blinky/blinky_${direction}.svg)`;
     } else {
       this.animationTarget.style.backgroundImage =
-        'url(app/style/graphics/' + `spriteSheets/characters/ghosts/blinky/blinky_right.svg)`;
+        'url(app/style/graphics/' + `spriteSheets/characters/ghosts/blinky/blinky_${direction}.svg)`;
     }
   }
 
@@ -863,7 +863,7 @@ class Pacman {
    */
   setSpriteSheet(direction) {
     this.animationTarget.style.backgroundImage =
-      'url(app/style/graphics/' + `spriteSheets/characters/pacman/pacman_left.svg)`;
+      'url(app/style/graphics/' + `spriteSheets/characters/pacman/pacman_${direction}.svg)`;
   }
 
   prepDeathAnimation() {
