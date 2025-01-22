@@ -1,5 +1,5 @@
-<svg height="16" width="16" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 10 55 712" xml:space="preserve" transform="matrix(-1.8369701987210297e-16,-1,1,-1.8369701987210297e-16,0,0)">
-    <g id="police" transform="scale(.7, .7)">
+<svg height="16" width="16" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 10 650 512" xml:space="preserve" transform="matrix(-1.8369701987210297e-16,-1,1,-1.8369701987210297e-16,0,0)">
+    <g id="police" transform="scale(.6, .6) translate(550,400)">
 <path style="fill:#CCCCCC;" d="M381.853,276.922H55.639l-0.011-0.011c0.922-0.831,1.788-1.72,2.608-2.642
 	c3.53-3.997,6.15-8.78,7.596-14.042l6.275-22.765c9.566-34.779,41.191-58.865,77.246-58.865h135.291
 	c38.481,0,72.634,24.621,84.796,61.12L381.853,276.922z"></path>
@@ -90,7 +90,7 @@
 	c0.83-4.644-2.263-9.08-6.906-9.909c-4.647-0.828-9.082,2.264-9.909,6.907l-4.431,24.819
 	C460.413,349.987,463.506,354.424,468.149,355.253z"></path>
       </g>
-      <g id="police" transform="scale(.7, .7) translate(0,450)">
+      <g id="police" transform="scale(.6, .6) translate(550,-95)">
 <path style="fill:#CCCCCC;" d="M381.853,276.922H55.639l-0.011-0.011c0.922-0.831,1.788-1.72,2.608-2.642
 	c3.53-3.997,6.15-8.78,7.596-14.042l6.275-22.765c9.566-34.779,41.191-58.865,77.246-58.865h135.291
 	c38.481,0,72.634,24.621,84.796,61.12L381.853,276.922z"></path>
