@@ -1,5 +1,5 @@
-<svg fill="none" height="16" viewBox="1 5 64 16" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" transform="matrix(-6.123233995736766e-17,-1,-1,6.123233995736766e-17,0,0)">
-  <g id="car" transform="scale(.54, .55)">
+  <svg width="64" height="16" viewBox="0 0 64 16" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">  
+  <g id="car" transform="scale(.55, .55) translate(-17,30) rotate(270)">
   <filter id="a" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="7.10879" width="6.9588" x="5.14722" y="23.0412">
     <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
     <feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape"></feBlend>
@@ -256,7 +256,11 @@
     <circle cx="26.7982" cy="26.3698" r="2.33446" stroke="url(#U)"></circle>
   </g>
     </g>
-     <use href="#car" transform="translate(16, 0)"></use>
-       <use href="#car" transform="translate(32, 0)"></use>
-         <use href="#car" transform="translate(48, 0)"></use>
+    <!-- <use href="#car"  transform=" translate(8,0)"/> -->
+    <use href="#car"  transform=" translate(16,0)"/>
+    <!-- <use href="#car"  transform=" translate(24,0)"/> -->
+    <use href="#car"  transform=" translate(32,0)"/>
+    <!-- <use href="#car"  transform=" translate(40,0)"/> -->
+    <use href="#car"  transform=" translate(48,0)"/>
+    <!-- <use href="#car"  transform=" translate(56,0)"/> -->
 </svg>
